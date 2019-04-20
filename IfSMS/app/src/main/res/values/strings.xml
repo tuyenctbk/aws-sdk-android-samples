@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">If SMS</string>
+    <string name="permission_denied_close_app">Permissions denied. Closing app</string>
+    <string name="confirm_close_app">Are you sure to quit the app?</string>
+</resources>
